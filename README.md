@@ -1,2 +1,2 @@
-# ToDo-List-App
-Very very simple ToDo app using CLI.
+# Todo CLI App
+A simple command-line todo list manager in Python.
